@@ -158,9 +158,10 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   color: #a8a9b4;
   padding: 12px 15px;
-  margin-bottom: 8px;
+  margin-bottom: 30px;
   transition: 0.3s;
   font-size: 15px;
+
 }
 
 .nav-menu a i {
